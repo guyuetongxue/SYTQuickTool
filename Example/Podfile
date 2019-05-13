@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SYTQuickTool_Example' do
+  pod 'SYTQuickTool', :path => '../'
+
+  target 'SYTQuickTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
