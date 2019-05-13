@@ -1,0 +1,6 @@
+framework module SYTQuickTool {
+  umbrella header "SYTQuickTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

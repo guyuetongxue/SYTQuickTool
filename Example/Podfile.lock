@@ -1,0 +1,16 @@
+PODS:
+  - SYTQuickTool (0.1.0)
+
+DEPENDENCIES:
+  - SYTQuickTool (from `../`)
+
+EXTERNAL SOURCES:
+  SYTQuickTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYTQuickTool: ea46dc322c4454dafddfba5bf5de83ad795f21c9
+
+PODFILE CHECKSUM: 629021f6264c47f6f06a8e47f17152e36254ab2d
+
+COCOAPODS: 1.6.1
